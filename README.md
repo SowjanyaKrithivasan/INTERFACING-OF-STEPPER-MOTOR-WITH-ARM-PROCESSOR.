@@ -1,4 +1,4 @@
-## INTERFACING-OF-STEPPER-MOTOR-WITH-ARM-PROCESSOR.
+# INTERFACING-OF-STEPPER-MOTOR-WITH-ARM-PROCESSOR.
 # Aim :
 To write an Embedded C program to interface a Stepper Motor with ARM processor LPC1768 using Keil MicroVision IDE.
 # Components Required :
